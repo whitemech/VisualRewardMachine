@@ -6,7 +6,7 @@ Official repository for the paper "Visual Reward Machines. Elena Umili, Francesc
 - gym
 - pygame
 
-## How to cite use
+## How to cite us
 ```
 @inproceedings{DBLP:conf/nesy/UmiliABC23,
   author       = {Elena Umili and
