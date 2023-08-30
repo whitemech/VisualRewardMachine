@@ -1,10 +1,10 @@
 # VisualRewardMachine
 Official repository for the paper "Visual Reward Machines. Elena Umili, Francesco Argenziano, Aymeric Barbin and Roberto Capobianco. 2023 NeSy workshop".
 
-##Requirements
+## Requirements
 
 
-##How to cite use
+## How to cite use
 ```
 @inproceedings{DBLP:conf/nesy/UmiliABC23,
   author       = {Elena Umili and
